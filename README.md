@@ -7,7 +7,6 @@ in software engineering, data science, and machine learning.
 - React
 - JavaScript
 - HTML/CSS
-- Vite
 
 ## Live Demo
 (coming soon)
