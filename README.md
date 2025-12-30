@@ -9,7 +9,7 @@ in software engineering, data science, and machine learning.
 - HTML/CSS
 
 ## Live Demo
-(coming soon)
+i will be deploying soon
 
 ## Contact
 learn.venkat.chinta@gmail.com
