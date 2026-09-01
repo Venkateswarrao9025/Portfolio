@@ -1,5 +1,19 @@
 export const experience = [
     {
+        title: "Software Engineer",
+        company: "Verizon",
+        location: "Texas, USA",
+        date: "Jun 2026 – Present",
+        bullets: [
+            "Developed and shipped full-stack features using Python, Django, Django REST Framework, and React.js, delivering scalable RESTful APIs and responsive user interfaces for operational management workflows across iterative Agile sprints.",
+            "Designed and optimized Django-based microservices for operational data workflows, integrating PostgreSQL data models through Django ORM and enabling real-time event processing using Kafka-based asynchronous messaging pipelines.",
+            "Built and secured backend APIs using Django REST Framework, JWT authentication, and role-based access control, ensuring compliance with enterprise security standards and regulatory requirements.",
+            "Automated CI/CD pipelines using GitLab CI/CD and Docker, containerizing Django backend services and React.js frontends to standardize deployments across development, staging, and production environments.",
+            "Integrated AI-powered capabilities into operational workflows by developing Python-based orchestration services that interact with LLM APIs and surface intelligent insights through internal operational dashboards.",
+            "Collaborated with cross-functional teams, AI, and infrastructure teams to translate business and compliance requirements into API designs and concrete implementation tasks, delivering features incrementally across scheduled Agile release cycles.",
+        ],
+    },
+    {
         title: "Graduate Student Assistant",
         company: "University of North Texas",
         location: "Denton, Texas",
