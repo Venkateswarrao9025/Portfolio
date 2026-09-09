@@ -19,9 +19,11 @@ export const experience = [
         location: "Denton, Texas",
         date: "Aug 2024 – Dec 2025",
         bullets: [
-            "Developed responsive and user-friendly web interfaces using HTML, CSS, JavaScript, React.js, and TypeScript using Git for version control.",
-            "Optimized UI/UX for performance, accessibility, and cross-browser compatibility.",
-            "Managed website updates, bug fixes, and front-end performance improvements.",
+            "Designed a multi-agent LLM system using LangGraph with FAISS retrieval and structured reasoning workflows, reducing hallucinations by 40% and accelerating research iteration by 50%.",
+            "Architected and deployed a computer vision pipeline on AWS SageMaker using YOLOv5/8/10 on 40GB of multispectral UAV imagery, achieving 92% mAP and 0.91 F1 score, replacing manual field surveys and driving an estimated $1M+ in cost avoidance for invasive plant detection.",
+            "Deployed the multi-agent LLM system as a containerized service (Docker) with vLLM-backed inference and Redis-cached retrieval, cutting average response latency by approximately 60% for near real-time research query responses.",
+            "Developed a CAN bus anomaly detection system that improved F1 score by 11 points to reach 0.85, strengthening intrusion detection reliability for vehicle network security.",
+            "Presented UAV-based invasive species detection research at UNT's Annual Research Day as one of 300+ applicants selected for the AI/CS Summer Research Fellowship.",
         ],
     },
     {
