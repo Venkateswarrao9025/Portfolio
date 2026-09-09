@@ -1,9 +1,9 @@
 export const profile = {
     name: "Venkateswar Rao Chinta",
     title: "Software Engineer",
-    heroRole: "Software Engineer | Full-Stack | Python • Java • Django • Spring Boot • React • AWS",
+    heroRole: "Software Engineer | Full-Stack | Python • Java • Django • React • AWS",
     heroPitch:
-        "Software engineer with 3+ years of experience developing full-stack applications using Python, Java, Django, Spring Boot, React.js and PostgreSQL. Proven ability to optimize APIs and database performance, deploy and scale microservices on AWS, and implement CI/CD pipelines.",
+        "Software engineer with 3+ years of experience developing full-stack applications using Python, Java, Django, React.js and PostgreSQL. Proven ability to optimize APIs and database performance, deploy and scale microservices on AWS, and implement CI/CD pipelines.",
     email: "learn.venkat.chinta@gmail.com",
     links: {
         github: "https://github.com/Venkateswarrao9025",
@@ -12,5 +12,5 @@ export const profile = {
     locationLine: "Open to Relocate | Denton, Texas",
     linkedinHandleText: "linkedin.com/in/venkateswarraochinta",
     about:
-        "Software engineer with 3+ years of experience developing full-stack applications using Python, Java, Django, Spring Boot, React.js and PostgreSQL. Proven ability to optimize APIs and database performance, deploy and scale microservices on AWS, and implement CI/CD pipelines. Skilled in algorithms, data structures and SQL through internships and graduate assistantship. Seeking an entry-level software engineer role to contribute to distributed systems and global infrastructure.",
+        "Software engineer with 3+ years of experience developing full-stack applications using Python, Java, Django, React.js and PostgreSQL. Proven ability to optimize APIs and database performance, deploy and scale microservices on AWS, and implement CI/CD pipelines. Skilled in algorithms, data structures and SQL through internships and graduate assistantship. Seeking an entry-level software engineer role to contribute to distributed systems and global infrastructure.",
 };
